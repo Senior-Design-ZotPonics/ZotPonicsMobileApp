@@ -1,21 +1,12 @@
 # ZotPonics Mobile App
-
-A new Flutter application.
+This is the code for the mobile app portion of the Smart Hydroponics System, ZotPonics.
 
 ![](https://github.com/Senior-Design-ZotPonics/Documentation/blob/master/App%20Recording.gif)
 
-# Wiki
+## Authors
+[Sidney Lau](https://www.linkedin.com/in/sidney-lau/): B.S. Computer Science and Engineering Major, Class of 2020, University of California, Irvine
+
+[Owen Yang](https://www.linkedin.com/in/owen-yang-200989138/): B.S. Computer Science and Engineering Major, Class of 2020, University of California, Irvine
+
+# Mobile App Quick Start Guide
 View our wiki here: [ZotPonics Mobile App Wiki](https://github.com/Senior-Design-ZotPonics/ZotPonicsMobileApp/wiki)
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
